@@ -4,7 +4,7 @@ A work in progress EFI folder for installing macOS Sonoma on Dell Latitude E7470
 
 ## Current configuration
 
-- macOS: Sonoma 14.0
+- macOS: Sonoma 14.0 (I used macOS Sonoma 14.0 Public by techrechard.com dmg to build the USB installer)
 - OpenCore: 0.9.5
 
 <summary><strong>My Hardware</strong></summary>
