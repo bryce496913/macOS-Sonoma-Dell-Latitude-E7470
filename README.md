@@ -32,6 +32,7 @@ A work in progress EFI folder for installing macOS Sonoma on Dell Latitude E7470
 - [x] Shutdown/ Reboot/ Sleep/ Wake
 - [x] Intel Gigabit Ethernet
 - [x] Keyboard and Trackpad(two finger vertical swipes)
+- [x] iServices (Xcode, iPhone 14P sync)
 
 <summary><strong>What's not working</strong></summary>
 
@@ -42,5 +43,4 @@ A work in progress EFI folder for installing macOS Sonoma on Dell Latitude E7470
 - [ ] Internal camera
 - [ ] AirDrop
 - [ ] Bluetooth
-- [ ] iServices
 - [ ] SD Card Reader
